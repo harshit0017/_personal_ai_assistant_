@@ -207,8 +207,7 @@ if __name__ == '__main__':
             ai(prompt=query)
 
 
-        elif "anika".lower() in query.lower():
-            say("Anika is love")
+       
         elif "bark".lower() in query.lower():
             musicPath = "/Users/harshitsingh/Downloads/dog-barking-70772.mp3"
             subprocess.Popen(["open", musicPath])
