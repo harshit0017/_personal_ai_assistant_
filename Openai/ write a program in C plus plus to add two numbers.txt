@@ -1,0 +1,20 @@
+Openai response for Prompt: using artificial intelligence write a program in C plus plus to add two numbers 
+
+
+#include <iostream>
+
+using namespace std; 
+
+int main() 
+{ 
+    int a, b, c; 
+  
+    cout << "Enter two numbers to add: "; 
+    cin >> a >> b; 
+  
+    c = a + b; 
+  
+    cout << "Sum of the two numbers: " << c; 
+  
+    return 0; 
+}
