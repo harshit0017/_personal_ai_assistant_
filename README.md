@@ -1,7 +1,8 @@
 # _personal_ai_assistant_kiko
 This repository contains the code for personal ai assistant with the power of chatGPT openai API, other than that it can also tell the latest news and weather of any city at any day and remembers the chat.
 
-
+ **** before the code on your system install all the required libraries in us enviornment
+ 
 1. config.py - it is where we will store all of our api keys and later use them in our program
 2. main.py- contains the main code which will be responsbile for the ai to response
 
